@@ -1,0 +1,17 @@
+COMPLETION & PRODUCTION OPERATIONS REPORT - WELL CAMBAY-14
+Field: Ankleshwar / Gandhar Area
+Basin: Cambay Rift Basin, Gujarat
+Target Interval: Olpad Formation & Hazira Pay Horizon
+Total Depth (TVD): 3,450 meters (11,318 ft)
+
+1. GEOLOGICAL & LITHOLOGICAL SUMMARY
+The Cambay-14 exploratory well targeted the Eocene Olpad Formation within the Cambay Graben structure. Lithological analysis confirms interbedded organic-rich black shales and fine-to-medium grained trap-wacke sandstone reservoirs. Structural interpretation indicates fault-bounded trap closures along the basin margin. Biostratigraphic markers identify upper Eocene palynomorph zones with high organic carbon density.
+
+2. PETROPHYSICAL & WELL LOGGING PROFILE
+Wireline logging runs (Gamma Ray, Dual Induction Resistivity, Compensated Neutron-Density) were executed from 2,800 m to total depth of 3,450 m. The key reservoir sandstone interval (3,120 m - 3,280 m) exhibited average effective porosity of 18.5% and water saturation (Sw) of 28%. Resistivity log values averaged 45 ohm-m across the hydrocarbon pay zone.
+
+3. WELLBORE COMPLETION & HARDWARE SCHEMATIC
+Production casing (7-inch, 26 lb/ft, N-80) was set and cemented to 3,445 m. Downhole completion hardware includes a 3-1/2 inch L-80 production tubing string, a permanent hydraulic packer set at 3,090 m, and a subsurface safety valve (SSSV) installed at 150 m. Perforation was carried out using 3-3/8 inch tubing-conveyed casing guns across 3,125 m - 3,160 m at 6 shots per foot.
+
+4. RESERVOIR STIMULATION & PRODUCTION FLOW DATA
+Hydraulic fracturing stimulation was executed across the low-permeability sandstone section using a 40-stage slickwater fluid treatment with 120,000 lbs of 20/40 mesh ceramic proppant. Post-cleanup flow testing recorded a initial stabilized flow rate of 420 barrels of oil per day (BOPD) and 1.8 MMSCFD of associated gas at a tubing head pressure of 1,850 psi. Crude oil API gravity was measured at 38.4° API with a gas-oil ratio (GOR) of 4,280 scf/bbl.

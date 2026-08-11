@@ -1,0 +1,22 @@
+DEEPWATER PETROPHYSICAL & RESERVOIR EVALUATION - WELL KG-DWN-98
+Block: KG-DWN-98 Deepwater Horizon
+Basin: Krishna-Godavari Offshore Basin, East Coast
+Water Depth: 1,450 meters (4,757 ft)
+Total Measured Depth (TD): 4,820 meters (15,813 ft)
+
+1. EXPLORATION CONTEXT & STRATIGRAPHY
+Well KG-DWN-98 evaluated deepwater Pliocene channel-levee sandstone complexes within the Krishna-Godavari offshore slope environment. The stratigraphic column comprises thick slope turbidite packages interbedded with hemipelagic claystones. High-resolution seismic amplitude anomalies (bright spots) correlated strongly with fluid-bearing reservoir sands.
+
+2. BOREHOLE GEOPHYSICS & WELL LOGGING
+High-definition wireline tools (Array Induction, Spectral Gamma Ray, Micro-Caliper, Formation Micro-Imager) were deployed. Log analysis across the primary pay interval (4,150 m - 4,380 m) indicated:
+- Net Pay Thickness: 64 meters
+- Average Porosity: 24.2%
+- Permeability: 480 mD
+- Formation Resistivity: 65 ohm-m vs 0.8 ohm-m baseline shale
+- Formation Density: 2.12 g/cm3 with distinct neutron-density crossover indicative of free gas and light condensate.
+
+3. PALYNOLOGY & BIOSTRATIGRAPHY
+Micropaleontological and palynological analysis of drill cuttings established precise biostratigraphic biozones based on planktonic foraminifera and nannofossil assemblages. The reservoir interval lies strictly within Pliocene biozone N19/N20, establishing regional horizon correlation across adjacent deepwater blocks.
+
+4. SEISMIC ACQUISITION & ATTRIBUTE MATCHING
+3D marine seismic survey data acquired using a 10-streamer hydrophone receiver array with vibroseis/airgun energy sources mapped elastic wave impedance contrasts. Amplitude Versus Offset (AVO) Class III anomaly signatures matched downhole acoustic impedance transitions, validating two-way traveltime (TWT) reflector horizons at 3.42 seconds.

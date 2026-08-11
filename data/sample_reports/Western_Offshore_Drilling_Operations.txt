@@ -1,0 +1,17 @@
+DRILLING ENGINEERING & BHA PERFORMANCE REPORT - WELL WESTERN-OFFSHORE-09
+Field: Western Offshore Platform Complex
+Reservoir: L-III Carbonate Horizon
+Total Depth (MD): 3,890 meters (12,762 ft)
+Directional Profile: S-curve directional trajectory (Max Inclination: 42.5°)
+
+1. DRILLING MECHANICS & BHA ASSEMBLY
+The 12-1/4 inch hole section was drilled using a rotary steerable system (RSS) integrated with a high-torque 8-inch mud motor and a 6-blade PDC drill bit (Bit SN: PDC-9921). Bottom Hole Assembly (BHA) sensors provided real-time LWD resistivity, inclination, azimuth, and stick-slip vibration data to the directional driller.
+
+2. MUD HYDRAULICS & RHEOLOGY
+Drilling utilized a Synthetic Oil-Based Mud (SOBM) system maintained at a mud density of 11.8 ppg (1.41 g/cm3) to control formation pressure and maintain wellbore stability in fractured lime-mudstones. Standpipe pressure averaged 3,150 psi at a circulation rate of 820 GPM. Mud motor differential pressure was monitored at 450 psi.
+
+3. FORMATION LOSSES & WELL STIMULATION PREPARATION
+Minor mud seepage (15 bbls/hr) occurred at 3,620 m depth due to localized vuggy porosity within the L-III carbonate reef facies. LCM (Lost Circulation Material) pills containing coarse calcium carbonate and mica flakes were pumped to seal micro-fractures, successfully restoring full fluid circulation.
+
+4. SAFETY & HSE METRICS
+Zero Lost Time Injuries (LTI) or environmental discharges were recorded during the 14-day drilling run. Blowout Preventer (BOP) stack function and pressure testing was conducted to 5,000 psi WP with full compliance. The well has been secured with a 9-5/8 inch intermediate casing prior to reservoir pay section penetration.
