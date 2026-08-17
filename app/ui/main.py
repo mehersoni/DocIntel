@@ -167,7 +167,7 @@ from app.config import (
 from app.ingestion.extractor import extract_text, extract_captions, extract_images
 from app.ingestion.chunker import chunk_text, save_chunks
 from app.discovery.statistical import run_statistical_discovery
-from app.discovery.llm import run_llm_discovery, extract_category_details
+from app.discovery.glossary_scan import run_direct_glossary_scan as run_llm_discovery, extract_category_details
 from app.discovery.merger import merge_discovered_categories
 from app.schema.manager import load_yaml_schema, save_approved_schema
 

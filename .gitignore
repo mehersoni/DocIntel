@@ -1,5 +1,7 @@
+# Python & Virtual Environments
 .venv/
 venv/
+ENV/
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -7,7 +9,13 @@ __pycache__/
 *.log
 .DS_Store
 
-# Exclude uploaded files and generated outputs
+# Exclude PDFs, DOCX Reports, and Heavy Media Files
+*.pdf
+*.docx
+*.mp4
+docs/
+
+# Exclude Uploaded Documents and Generated Output Artifacts
 data/uploads/*
 !data/uploads/.gitkeep
 outputs/*

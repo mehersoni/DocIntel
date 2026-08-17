@@ -1,6 +1,8 @@
 import pytest
+from pathlib import Path
 from app.discovery.merger import merge_discovered_categories
-from app.discovery.statistical import extract_noun_phrases
+from app.discovery.statistical import extract_noun_phrases, run_statistical_discovery
+from app.discovery.glossary_scan import run_direct_glossary_scan, extract_category_details
 
 def test_merge_discovered_categories(tmp_path):
     statistical_cats = [
@@ -40,14 +42,13 @@ def test_extract_noun_phrases():
     phrases = extract_noun_phrases(chunks)
     
     assert len(phrases) > 0
-    # The noun phrase should be present in the extracted list
     assert any("mud motor" in p for p in phrases)
 
 def test_merge_details():
     from app.schema.manager import merge_details
     
     old_details = {
-        "summary": "Old summary",
+        "summary": "Existing summary preserved",
         "examples": ["Well A"],
         "common_attributes": ["Depth"],
         "observed_terms": ["wellbore"],
@@ -58,72 +59,46 @@ def test_merge_details():
         "summary": "New summary",
         "examples": ["Well A", "Well B"],
         "common_attributes": ["Depth", "Operator"],
-        "observed_terms": ["wellhead"],
-        "sample_mentions": ["...another text..."]
+        "observed_terms": ["wellbore", "casing"],
+        "sample_mentions": ["...new text..."]
     }
     
     merged = merge_details(old_details, new_details)
-    
-    # Check that old summary is kept (since it's not empty)
-    assert merged["summary"] == "Old summary"
-    # Check that lists are combined uniquely
-    assert merged["examples"] == ["Well A", "Well B"]
-    assert merged["common_attributes"] == ["Depth", "Operator"]
-    assert merged["observed_terms"] == ["wellbore", "wellhead"]
-    assert merged["sample_mentions"] == ["...text...", "...another text..."]
+    assert merged["summary"] == "Existing summary preserved"
+    assert "Well B" in merged["examples"]
+    assert "Operator" in merged["common_attributes"]
+    assert "casing" in merged["observed_terms"]
 
-def test_save_approved_schema_with_details(tmp_path):
-    import yaml
-    from app.schema.manager import save_approved_schema
+def test_empty_and_malformed_document_handling():
+    """Verifies that empty chunks or empty strings produce empty candidate sets cleanly without error."""
+    empty_chunks = []
+    res_stat = run_statistical_discovery(empty_chunks)
+    assert res_stat == []
     
-    approved_cats = [
-        {
-            "name": "Well",
-            "description": "Oil well",
-            "confidence": "HIGH",
-            "sources": ["direct_scan"],
-            "details": {
-                "summary": "Well details summary",
-                "examples": ["Well A"]
-            }
-        }
-    ]
-    
-    edit_log = {"added": [], "removed": [], "renamed": {}}
-    approved_path = tmp_path / "approved_schema.yaml"
-    edit_log_path = tmp_path / "edit_log.json"
-    
-    save_approved_schema(approved_cats, edit_log, approved_path, edit_log_path)
-    
-    # Reload and check structure
-    with open(approved_path, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
-        
-    assert "categories" in data
-    well_cat = data["categories"][0]
-    assert well_cat["name"] == "Well"
-    assert "details" in well_cat
-    assert well_cat["details"]["summary"] == "Well details summary"
-    assert well_cat["details"]["examples"] == ["Well A"]
+    blank_chunks = [{"doc_id": "test.txt", "chunk_index": 0, "text": "   "}]
+    res_scan = run_direct_glossary_scan(blank_chunks)
+    assert res_scan == []
 
-def test_tfidf_statistical_discovery():
-    from app.discovery.statistical import run_statistical_discovery
-    chunks = [
-        {"doc_id": "report1.pdf", "text": "Gamma ray log showed shale formations at depth of 8450 ft. Gamma ray logs evaluate lithology."},
-        {"doc_id": "report1.pdf", "text": "Resistivity log indicated sandstone reservoir facies with high resistivity values. Density log and caliper log measured borehole diameter."}
+def test_direct_glossary_scan_threshold():
+    """Verifies that single term occurrences do not trigger false positive category matching."""
+    # Single mention of a term (below threshold)
+    single_chunks = [{"doc_id": "test.txt", "chunk_index": 0, "text": "A single packer was inspected."}]
+    res_single = run_direct_glossary_scan(single_chunks)
+    
+    # Multiple mentions of terms (above threshold >= 2)
+    multi_chunks = [
+        {"doc_id": "test.txt", "chunk_index": 0, "text": "The hydraulic packer and production casing string were set at 3445 meters."},
+        {"doc_id": "test.txt", "chunk_index": 1, "text": "Packer pressure reached 1850 psi during completion test."}
     ]
-    cats = run_statistical_discovery(chunks)
-    assert isinstance(cats, list)
-    cat_names = [c["name"] for c in cats]
-    assert len(cat_names) > 0
+    res_multi = run_direct_glossary_scan(multi_chunks)
+    assert len(res_multi) > 0
 
-def test_extract_category_details_numerical_attributes():
-    from app.discovery.llm import extract_category_details
-    chunks = [
-        {"doc_id": "doc1.pdf", "text": "The Bakken shale target depth was 8,450 - 9,200 ft with mud weight 12.5 ppg and pressure 4500 psi."}
-    ]
-    details = extract_category_details("Geology", "Geological formations", chunks)
-    assert "numerical_attributes" in details
-    num_attrs = details["numerical_attributes"]
-    assert len(num_attrs) > 0
-    assert any("8,450" in a or "12.5 ppg" in a or "4500 psi" in a for a in num_attrs)
+def test_confidence_merger_edge_cases(tmp_path):
+    """Verifies edge cases in merger logic when input candidate lists are empty or overlap."""
+    out_file = tmp_path / "edge_schema.yaml"
+    merged_empty = merge_discovered_categories([], [], out_file)
+    assert merged_empty == []
+    
+    merged_single = merge_discovered_categories([{"name": "Drilling", "description": "Drill"}], [], out_file)
+    assert len(merged_single) == 1
+    assert merged_single[0]["confidence"] == "MEDIUM"

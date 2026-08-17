@@ -235,7 +235,7 @@
   },
   "palynology": {
     "term": "Palynology",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "The study of fossilized remnants of microscopic entities having organic walls, such as pollen, spores and cysts from algae.",
     "attributes": [
       "Microfossil Count",
@@ -247,7 +247,7 @@
   },
   "pollen": {
     "term": "Pollen",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "Fine dust-like grains produced by seed plants, used in palynology for biostratigraphy and paleoenvironmental reconstruction.",
     "attributes": [
       "Microfossil Count",
@@ -259,7 +259,7 @@
   },
   "spore": {
     "term": "Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "An organic-walled reproductive structure produced by non-flowering plants, key in palynological geological dating.",
     "attributes": [
       "Microfossil Count",
@@ -271,7 +271,7 @@
   },
   "palynomorph": {
     "term": "Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A microscopic, organic-walled fossil structure studied in palynology.",
     "attributes": [
       "Microfossil Count",
@@ -283,7 +283,7 @@
   },
   "biostratigraphy": {
     "term": "Biostratigraphy",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "The application of plant and animal fossils to date and correlate strata in order to elucidate Earth history, combining the principles of paleontology and stratigraphy.",
     "attributes": [
       "Microfossil Count",
@@ -919,8 +919,8 @@
   },
   "microfossil": {
     "term": "Microfossil",
-    "category": "Palenology",
-    "description": "A technical term related to Palenology operations.",
+    "category": "Palynology",
+    "description": "A technical term related to Palynology operations.",
     "attributes": [
       "Microfossil Count",
       "Organic Wall Type"
@@ -9267,7 +9267,7 @@
   },
   "trilete spore": {
     "term": "Trilete Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9281,7 +9281,7 @@
   },
   "trilete pollen grain": {
     "term": "Trilete Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9295,7 +9295,7 @@
   },
   "trilete dinoflagellate": {
     "term": "Trilete Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9309,7 +9309,7 @@
   },
   "trilete acritarch": {
     "term": "Trilete Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9323,7 +9323,7 @@
   },
   "trilete palynomorph": {
     "term": "Trilete Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9337,7 +9337,7 @@
   },
   "trilete chitinozoan": {
     "term": "Trilete Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9351,7 +9351,7 @@
   },
   "trilete tasmanitid": {
     "term": "Trilete Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9365,7 +9365,7 @@
   },
   "trilete microfossil": {
     "term": "Trilete Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9379,7 +9379,7 @@
   },
   "monolete spore": {
     "term": "Monolete Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9393,7 +9393,7 @@
   },
   "monolete pollen grain": {
     "term": "Monolete Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9407,7 +9407,7 @@
   },
   "monolete dinoflagellate": {
     "term": "Monolete Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9421,7 +9421,7 @@
   },
   "monolete acritarch": {
     "term": "Monolete Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9435,7 +9435,7 @@
   },
   "monolete palynomorph": {
     "term": "Monolete Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9449,7 +9449,7 @@
   },
   "monolete chitinozoan": {
     "term": "Monolete Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9463,7 +9463,7 @@
   },
   "monolete tasmanitid": {
     "term": "Monolete Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9477,7 +9477,7 @@
   },
   "monolete microfossil": {
     "term": "Monolete Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9491,7 +9491,7 @@
   },
   "bisaccate spore": {
     "term": "Bisaccate Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9505,7 +9505,7 @@
   },
   "bisaccate pollen grain": {
     "term": "Bisaccate Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9519,7 +9519,7 @@
   },
   "bisaccate dinoflagellate": {
     "term": "Bisaccate Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9533,7 +9533,7 @@
   },
   "bisaccate acritarch": {
     "term": "Bisaccate Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9547,7 +9547,7 @@
   },
   "bisaccate palynomorph": {
     "term": "Bisaccate Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9561,7 +9561,7 @@
   },
   "bisaccate chitinozoan": {
     "term": "Bisaccate Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9575,7 +9575,7 @@
   },
   "bisaccate tasmanitid": {
     "term": "Bisaccate Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9589,7 +9589,7 @@
   },
   "bisaccate microfossil": {
     "term": "Bisaccate Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9603,7 +9603,7 @@
   },
   "spinose spore": {
     "term": "Spinose Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9617,7 +9617,7 @@
   },
   "spinose pollen grain": {
     "term": "Spinose Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9631,7 +9631,7 @@
   },
   "spinose dinoflagellate": {
     "term": "Spinose Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9645,7 +9645,7 @@
   },
   "spinose acritarch": {
     "term": "Spinose Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9659,7 +9659,7 @@
   },
   "spinose palynomorph": {
     "term": "Spinose Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9673,7 +9673,7 @@
   },
   "spinose chitinozoan": {
     "term": "Spinose Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9687,7 +9687,7 @@
   },
   "spinose tasmanitid": {
     "term": "Spinose Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9701,7 +9701,7 @@
   },
   "spinose microfossil": {
     "term": "Spinose Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9715,7 +9715,7 @@
   },
   "smooth-walled spore": {
     "term": "Smooth-Walled Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9729,7 +9729,7 @@
   },
   "smooth-walled pollen grain": {
     "term": "Smooth-Walled Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9743,7 +9743,7 @@
   },
   "smooth-walled dinoflagellate": {
     "term": "Smooth-Walled Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9757,7 +9757,7 @@
   },
   "smooth-walled acritarch": {
     "term": "Smooth-Walled Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9771,7 +9771,7 @@
   },
   "smooth-walled palynomorph": {
     "term": "Smooth-Walled Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9785,7 +9785,7 @@
   },
   "smooth-walled chitinozoan": {
     "term": "Smooth-Walled Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9799,7 +9799,7 @@
   },
   "smooth-walled tasmanitid": {
     "term": "Smooth-Walled Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9813,7 +9813,7 @@
   },
   "smooth-walled microfossil": {
     "term": "Smooth-Walled Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9827,7 +9827,7 @@
   },
   "fossilized spore": {
     "term": "Fossilized Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9841,7 +9841,7 @@
   },
   "fossilized pollen grain": {
     "term": "Fossilized Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9855,7 +9855,7 @@
   },
   "fossilized dinoflagellate": {
     "term": "Fossilized Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9869,7 +9869,7 @@
   },
   "fossilized acritarch": {
     "term": "Fossilized Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9883,7 +9883,7 @@
   },
   "fossilized palynomorph": {
     "term": "Fossilized Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9897,7 +9897,7 @@
   },
   "fossilized chitinozoan": {
     "term": "Fossilized Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9911,7 +9911,7 @@
   },
   "fossilized tasmanitid": {
     "term": "Fossilized Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9925,7 +9925,7 @@
   },
   "fossilized microfossil": {
     "term": "Fossilized Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9939,7 +9939,7 @@
   },
   "stratigraphic spore": {
     "term": "Stratigraphic Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9953,7 +9953,7 @@
   },
   "stratigraphic pollen grain": {
     "term": "Stratigraphic Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9967,7 +9967,7 @@
   },
   "stratigraphic dinoflagellate": {
     "term": "Stratigraphic Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9981,7 +9981,7 @@
   },
   "stratigraphic acritarch": {
     "term": "Stratigraphic Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -9995,7 +9995,7 @@
   },
   "stratigraphic palynomorph": {
     "term": "Stratigraphic Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10009,7 +10009,7 @@
   },
   "stratigraphic chitinozoan": {
     "term": "Stratigraphic Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10023,7 +10023,7 @@
   },
   "stratigraphic tasmanitid": {
     "term": "Stratigraphic Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10037,7 +10037,7 @@
   },
   "stratigraphic microfossil": {
     "term": "Stratigraphic Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10051,7 +10051,7 @@
   },
   "marine spore": {
     "term": "Marine Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10065,7 +10065,7 @@
   },
   "marine pollen grain": {
     "term": "Marine Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10079,7 +10079,7 @@
   },
   "marine dinoflagellate": {
     "term": "Marine Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10093,7 +10093,7 @@
   },
   "marine acritarch": {
     "term": "Marine Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10107,7 +10107,7 @@
   },
   "marine palynomorph": {
     "term": "Marine Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10121,7 +10121,7 @@
   },
   "marine chitinozoan": {
     "term": "Marine Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10135,7 +10135,7 @@
   },
   "marine tasmanitid": {
     "term": "Marine Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10149,7 +10149,7 @@
   },
   "marine microfossil": {
     "term": "Marine Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10163,7 +10163,7 @@
   },
   "terrestrial spore": {
     "term": "Terrestrial Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10177,7 +10177,7 @@
   },
   "terrestrial pollen grain": {
     "term": "Terrestrial Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10191,7 +10191,7 @@
   },
   "terrestrial dinoflagellate": {
     "term": "Terrestrial Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10205,7 +10205,7 @@
   },
   "terrestrial acritarch": {
     "term": "Terrestrial Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10219,7 +10219,7 @@
   },
   "terrestrial palynomorph": {
     "term": "Terrestrial Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10233,7 +10233,7 @@
   },
   "terrestrial chitinozoan": {
     "term": "Terrestrial Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10247,7 +10247,7 @@
   },
   "terrestrial tasmanitid": {
     "term": "Terrestrial Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -10261,7 +10261,7 @@
   },
   "terrestrial microfossil": {
     "term": "Terrestrial Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30000,7 +30000,7 @@
   },
   "trilete cyst": {
     "term": "Trilete Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30014,7 +30014,7 @@
   },
   "trilete cuticle": {
     "term": "Trilete Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30028,7 +30028,7 @@
   },
   "monolete cyst": {
     "term": "Monolete Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30042,7 +30042,7 @@
   },
   "monolete cuticle": {
     "term": "Monolete Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30056,7 +30056,7 @@
   },
   "bisaccate cyst": {
     "term": "Bisaccate Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30070,7 +30070,7 @@
   },
   "bisaccate cuticle": {
     "term": "Bisaccate Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30084,7 +30084,7 @@
   },
   "spinose cyst": {
     "term": "Spinose Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30098,7 +30098,7 @@
   },
   "spinose cuticle": {
     "term": "Spinose Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30112,7 +30112,7 @@
   },
   "smooth-walled cyst": {
     "term": "Smooth-Walled Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30126,7 +30126,7 @@
   },
   "smooth-walled cuticle": {
     "term": "Smooth-Walled Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30140,7 +30140,7 @@
   },
   "fossilized cyst": {
     "term": "Fossilized Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30154,7 +30154,7 @@
   },
   "fossilized cuticle": {
     "term": "Fossilized Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30168,7 +30168,7 @@
   },
   "stratigraphic cyst": {
     "term": "Stratigraphic Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30182,7 +30182,7 @@
   },
   "stratigraphic cuticle": {
     "term": "Stratigraphic Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30196,7 +30196,7 @@
   },
   "marine cyst": {
     "term": "Marine Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30210,7 +30210,7 @@
   },
   "marine cuticle": {
     "term": "Marine Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30224,7 +30224,7 @@
   },
   "terrestrial cyst": {
     "term": "Terrestrial Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30238,7 +30238,7 @@
   },
   "terrestrial cuticle": {
     "term": "Terrestrial Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30252,7 +30252,7 @@
   },
   "indigenous spore": {
     "term": "Indigenous Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30266,7 +30266,7 @@
   },
   "indigenous pollen grain": {
     "term": "Indigenous Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30280,7 +30280,7 @@
   },
   "indigenous dinoflagellate": {
     "term": "Indigenous Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30294,7 +30294,7 @@
   },
   "indigenous acritarch": {
     "term": "Indigenous Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30308,7 +30308,7 @@
   },
   "indigenous palynomorph": {
     "term": "Indigenous Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30322,7 +30322,7 @@
   },
   "indigenous chitinozoan": {
     "term": "Indigenous Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30336,7 +30336,7 @@
   },
   "indigenous tasmanitid": {
     "term": "Indigenous Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30350,7 +30350,7 @@
   },
   "indigenous microfossil": {
     "term": "Indigenous Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30364,7 +30364,7 @@
   },
   "indigenous cyst": {
     "term": "Indigenous Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30378,7 +30378,7 @@
   },
   "indigenous cuticle": {
     "term": "Indigenous Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30392,7 +30392,7 @@
   },
   "reworked spore": {
     "term": "Reworked Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30406,7 +30406,7 @@
   },
   "reworked pollen grain": {
     "term": "Reworked Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30420,7 +30420,7 @@
   },
   "reworked dinoflagellate": {
     "term": "Reworked Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30434,7 +30434,7 @@
   },
   "reworked acritarch": {
     "term": "Reworked Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30448,7 +30448,7 @@
   },
   "reworked palynomorph": {
     "term": "Reworked Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30462,7 +30462,7 @@
   },
   "reworked chitinozoan": {
     "term": "Reworked Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30476,7 +30476,7 @@
   },
   "reworked tasmanitid": {
     "term": "Reworked Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30490,7 +30490,7 @@
   },
   "reworked microfossil": {
     "term": "Reworked Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30504,7 +30504,7 @@
   },
   "reworked cyst": {
     "term": "Reworked Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30518,7 +30518,7 @@
   },
   "reworked cuticle": {
     "term": "Reworked Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30532,7 +30532,7 @@
   },
   "oxidized spore": {
     "term": "Oxidized Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30546,7 +30546,7 @@
   },
   "oxidized pollen grain": {
     "term": "Oxidized Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30560,7 +30560,7 @@
   },
   "oxidized dinoflagellate": {
     "term": "Oxidized Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30574,7 +30574,7 @@
   },
   "oxidized acritarch": {
     "term": "Oxidized Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30588,7 +30588,7 @@
   },
   "oxidized palynomorph": {
     "term": "Oxidized Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30602,7 +30602,7 @@
   },
   "oxidized chitinozoan": {
     "term": "Oxidized Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30616,7 +30616,7 @@
   },
   "oxidized tasmanitid": {
     "term": "Oxidized Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30630,7 +30630,7 @@
   },
   "oxidized microfossil": {
     "term": "Oxidized Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30644,7 +30644,7 @@
   },
   "oxidized cyst": {
     "term": "Oxidized Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30658,7 +30658,7 @@
   },
   "oxidized cuticle": {
     "term": "Oxidized Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30672,7 +30672,7 @@
   },
   "carbonized spore": {
     "term": "Carbonized Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30686,7 +30686,7 @@
   },
   "carbonized pollen grain": {
     "term": "Carbonized Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30700,7 +30700,7 @@
   },
   "carbonized dinoflagellate": {
     "term": "Carbonized Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30714,7 +30714,7 @@
   },
   "carbonized acritarch": {
     "term": "Carbonized Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30728,7 +30728,7 @@
   },
   "carbonized palynomorph": {
     "term": "Carbonized Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30742,7 +30742,7 @@
   },
   "carbonized chitinozoan": {
     "term": "Carbonized Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30756,7 +30756,7 @@
   },
   "carbonized tasmanitid": {
     "term": "Carbonized Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30770,7 +30770,7 @@
   },
   "carbonized microfossil": {
     "term": "Carbonized Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30784,7 +30784,7 @@
   },
   "carbonized cyst": {
     "term": "Carbonized Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -30798,7 +30798,7 @@
   },
   "carbonized cuticle": {
     "term": "Carbonized Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99345,7 +99345,7 @@
   },
   "trilete assemblage": {
     "term": "Trilete Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99359,7 +99359,7 @@
   },
   "trilete recovery": {
     "term": "Trilete Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99373,7 +99373,7 @@
   },
   "trilete residue": {
     "term": "Trilete Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99387,7 +99387,7 @@
   },
   "trilete slide": {
     "term": "Trilete Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99401,7 +99401,7 @@
   },
   "trilete preparate": {
     "term": "Trilete Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type trilete preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99415,7 +99415,7 @@
   },
   "monolete assemblage": {
     "term": "Monolete Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99429,7 +99429,7 @@
   },
   "monolete recovery": {
     "term": "Monolete Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99443,7 +99443,7 @@
   },
   "monolete residue": {
     "term": "Monolete Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99457,7 +99457,7 @@
   },
   "monolete slide": {
     "term": "Monolete Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99471,7 +99471,7 @@
   },
   "monolete preparate": {
     "term": "Monolete Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type monolete preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99485,7 +99485,7 @@
   },
   "bisaccate assemblage": {
     "term": "Bisaccate Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99499,7 +99499,7 @@
   },
   "bisaccate recovery": {
     "term": "Bisaccate Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99513,7 +99513,7 @@
   },
   "bisaccate residue": {
     "term": "Bisaccate Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99527,7 +99527,7 @@
   },
   "bisaccate slide": {
     "term": "Bisaccate Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99541,7 +99541,7 @@
   },
   "bisaccate preparate": {
     "term": "Bisaccate Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type bisaccate preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99555,7 +99555,7 @@
   },
   "spinose assemblage": {
     "term": "Spinose Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99569,7 +99569,7 @@
   },
   "spinose recovery": {
     "term": "Spinose Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99583,7 +99583,7 @@
   },
   "spinose residue": {
     "term": "Spinose Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99597,7 +99597,7 @@
   },
   "spinose slide": {
     "term": "Spinose Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99611,7 +99611,7 @@
   },
   "spinose preparate": {
     "term": "Spinose Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spinose preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99625,7 +99625,7 @@
   },
   "smooth-walled assemblage": {
     "term": "Smooth-Walled Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99639,7 +99639,7 @@
   },
   "smooth-walled recovery": {
     "term": "Smooth-Walled Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99653,7 +99653,7 @@
   },
   "smooth-walled residue": {
     "term": "Smooth-Walled Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99667,7 +99667,7 @@
   },
   "smooth-walled slide": {
     "term": "Smooth-Walled Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99681,7 +99681,7 @@
   },
   "smooth-walled preparate": {
     "term": "Smooth-Walled Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type smooth-walled preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99695,7 +99695,7 @@
   },
   "fossilized assemblage": {
     "term": "Fossilized Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99709,7 +99709,7 @@
   },
   "fossilized recovery": {
     "term": "Fossilized Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99723,7 +99723,7 @@
   },
   "fossilized residue": {
     "term": "Fossilized Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99737,7 +99737,7 @@
   },
   "fossilized slide": {
     "term": "Fossilized Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99751,7 +99751,7 @@
   },
   "fossilized preparate": {
     "term": "Fossilized Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type fossilized preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99765,7 +99765,7 @@
   },
   "stratigraphic assemblage": {
     "term": "Stratigraphic Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99779,7 +99779,7 @@
   },
   "stratigraphic recovery": {
     "term": "Stratigraphic Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99793,7 +99793,7 @@
   },
   "stratigraphic residue": {
     "term": "Stratigraphic Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99807,7 +99807,7 @@
   },
   "stratigraphic slide": {
     "term": "Stratigraphic Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99821,7 +99821,7 @@
   },
   "stratigraphic preparate": {
     "term": "Stratigraphic Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphic preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99835,7 +99835,7 @@
   },
   "marine recovery": {
     "term": "Marine Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99849,7 +99849,7 @@
   },
   "marine residue": {
     "term": "Marine Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99863,7 +99863,7 @@
   },
   "marine slide": {
     "term": "Marine Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99877,7 +99877,7 @@
   },
   "marine preparate": {
     "term": "Marine Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type marine preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99891,7 +99891,7 @@
   },
   "terrestrial recovery": {
     "term": "Terrestrial Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99905,7 +99905,7 @@
   },
   "terrestrial residue": {
     "term": "Terrestrial Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99919,7 +99919,7 @@
   },
   "terrestrial slide": {
     "term": "Terrestrial Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99933,7 +99933,7 @@
   },
   "terrestrial preparate": {
     "term": "Terrestrial Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type terrestrial preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99947,7 +99947,7 @@
   },
   "indigenous assemblage": {
     "term": "Indigenous Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99961,7 +99961,7 @@
   },
   "indigenous recovery": {
     "term": "Indigenous Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99975,7 +99975,7 @@
   },
   "indigenous residue": {
     "term": "Indigenous Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -99989,7 +99989,7 @@
   },
   "indigenous slide": {
     "term": "Indigenous Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100003,7 +100003,7 @@
   },
   "indigenous preparate": {
     "term": "Indigenous Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type indigenous preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100017,7 +100017,7 @@
   },
   "reworked assemblage": {
     "term": "Reworked Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100031,7 +100031,7 @@
   },
   "reworked recovery": {
     "term": "Reworked Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100045,7 +100045,7 @@
   },
   "reworked residue": {
     "term": "Reworked Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100059,7 +100059,7 @@
   },
   "reworked slide": {
     "term": "Reworked Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100073,7 +100073,7 @@
   },
   "reworked preparate": {
     "term": "Reworked Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type reworked preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100087,7 +100087,7 @@
   },
   "oxidized assemblage": {
     "term": "Oxidized Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100101,7 +100101,7 @@
   },
   "oxidized recovery": {
     "term": "Oxidized Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100115,7 +100115,7 @@
   },
   "oxidized residue": {
     "term": "Oxidized Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100129,7 +100129,7 @@
   },
   "oxidized slide": {
     "term": "Oxidized Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100143,7 +100143,7 @@
   },
   "oxidized preparate": {
     "term": "Oxidized Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type oxidized preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100157,7 +100157,7 @@
   },
   "carbonized assemblage": {
     "term": "Carbonized Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100171,7 +100171,7 @@
   },
   "carbonized recovery": {
     "term": "Carbonized Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100185,7 +100185,7 @@
   },
   "carbonized residue": {
     "term": "Carbonized Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100199,7 +100199,7 @@
   },
   "carbonized slide": {
     "term": "Carbonized Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100213,7 +100213,7 @@
   },
   "carbonized preparate": {
     "term": "Carbonized Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type carbonized preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100227,7 +100227,7 @@
   },
   "organic-walled spore": {
     "term": "Organic-Walled Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100241,7 +100241,7 @@
   },
   "organic-walled pollen grain": {
     "term": "Organic-Walled Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100255,7 +100255,7 @@
   },
   "organic-walled dinoflagellate": {
     "term": "Organic-Walled Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100269,7 +100269,7 @@
   },
   "organic-walled acritarch": {
     "term": "Organic-Walled Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100283,7 +100283,7 @@
   },
   "organic-walled palynomorph": {
     "term": "Organic-Walled Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100297,7 +100297,7 @@
   },
   "organic-walled chitinozoan": {
     "term": "Organic-Walled Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100311,7 +100311,7 @@
   },
   "organic-walled tasmanitid": {
     "term": "Organic-Walled Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100325,7 +100325,7 @@
   },
   "organic-walled microfossil": {
     "term": "Organic-Walled Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100339,7 +100339,7 @@
   },
   "organic-walled cyst": {
     "term": "Organic-Walled Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100353,7 +100353,7 @@
   },
   "organic-walled cuticle": {
     "term": "Organic-Walled Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100367,7 +100367,7 @@
   },
   "organic-walled assemblage": {
     "term": "Organic-Walled Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100381,7 +100381,7 @@
   },
   "organic-walled recovery": {
     "term": "Organic-Walled Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100395,7 +100395,7 @@
   },
   "organic-walled residue": {
     "term": "Organic-Walled Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100409,7 +100409,7 @@
   },
   "organic-walled slide": {
     "term": "Organic-Walled Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100423,7 +100423,7 @@
   },
   "organic-walled preparate": {
     "term": "Organic-Walled Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type organic-walled preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100437,7 +100437,7 @@
   },
   "palynological spore": {
     "term": "Palynological Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100451,7 +100451,7 @@
   },
   "palynological pollen grain": {
     "term": "Palynological Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100465,7 +100465,7 @@
   },
   "palynological dinoflagellate": {
     "term": "Palynological Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100479,7 +100479,7 @@
   },
   "palynological acritarch": {
     "term": "Palynological Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100493,7 +100493,7 @@
   },
   "palynological palynomorph": {
     "term": "Palynological Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100507,7 +100507,7 @@
   },
   "palynological chitinozoan": {
     "term": "Palynological Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100521,7 +100521,7 @@
   },
   "palynological tasmanitid": {
     "term": "Palynological Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100535,7 +100535,7 @@
   },
   "palynological microfossil": {
     "term": "Palynological Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100549,7 +100549,7 @@
   },
   "palynological cyst": {
     "term": "Palynological Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100563,7 +100563,7 @@
   },
   "palynological cuticle": {
     "term": "Palynological Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100577,7 +100577,7 @@
   },
   "palynological assemblage": {
     "term": "Palynological Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100591,7 +100591,7 @@
   },
   "palynological recovery": {
     "term": "Palynological Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100605,7 +100605,7 @@
   },
   "palynological residue": {
     "term": "Palynological Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100619,7 +100619,7 @@
   },
   "palynological slide": {
     "term": "Palynological Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100633,7 +100633,7 @@
   },
   "palynological preparate": {
     "term": "Palynological Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type palynological preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100647,7 +100647,7 @@
   },
   "dinoflagellate-dominated spore": {
     "term": "Dinoflagellate-Dominated Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100661,7 +100661,7 @@
   },
   "dinoflagellate-dominated pollen grain": {
     "term": "Dinoflagellate-Dominated Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100675,7 +100675,7 @@
   },
   "dinoflagellate-dominated dinoflagellate": {
     "term": "Dinoflagellate-Dominated Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100689,7 +100689,7 @@
   },
   "dinoflagellate-dominated acritarch": {
     "term": "Dinoflagellate-Dominated Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100703,7 +100703,7 @@
   },
   "dinoflagellate-dominated palynomorph": {
     "term": "Dinoflagellate-Dominated Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100717,7 +100717,7 @@
   },
   "dinoflagellate-dominated chitinozoan": {
     "term": "Dinoflagellate-Dominated Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100731,7 +100731,7 @@
   },
   "dinoflagellate-dominated tasmanitid": {
     "term": "Dinoflagellate-Dominated Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100745,7 +100745,7 @@
   },
   "dinoflagellate-dominated microfossil": {
     "term": "Dinoflagellate-Dominated Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100759,7 +100759,7 @@
   },
   "dinoflagellate-dominated cyst": {
     "term": "Dinoflagellate-Dominated Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100773,7 +100773,7 @@
   },
   "dinoflagellate-dominated cuticle": {
     "term": "Dinoflagellate-Dominated Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100787,7 +100787,7 @@
   },
   "dinoflagellate-dominated assemblage": {
     "term": "Dinoflagellate-Dominated Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100801,7 +100801,7 @@
   },
   "dinoflagellate-dominated recovery": {
     "term": "Dinoflagellate-Dominated Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100815,7 +100815,7 @@
   },
   "dinoflagellate-dominated residue": {
     "term": "Dinoflagellate-Dominated Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100829,7 +100829,7 @@
   },
   "dinoflagellate-dominated slide": {
     "term": "Dinoflagellate-Dominated Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100843,7 +100843,7 @@
   },
   "dinoflagellate-dominated preparate": {
     "term": "Dinoflagellate-Dominated Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type dinoflagellate-dominated preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100857,7 +100857,7 @@
   },
   "spore-pollen spore": {
     "term": "Spore-Pollen Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100871,7 +100871,7 @@
   },
   "spore-pollen pollen grain": {
     "term": "Spore-Pollen Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100885,7 +100885,7 @@
   },
   "spore-pollen dinoflagellate": {
     "term": "Spore-Pollen Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100899,7 +100899,7 @@
   },
   "spore-pollen acritarch": {
     "term": "Spore-Pollen Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100913,7 +100913,7 @@
   },
   "spore-pollen palynomorph": {
     "term": "Spore-Pollen Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100927,7 +100927,7 @@
   },
   "spore-pollen chitinozoan": {
     "term": "Spore-Pollen Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100941,7 +100941,7 @@
   },
   "spore-pollen tasmanitid": {
     "term": "Spore-Pollen Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100955,7 +100955,7 @@
   },
   "spore-pollen microfossil": {
     "term": "Spore-Pollen Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100969,7 +100969,7 @@
   },
   "spore-pollen cyst": {
     "term": "Spore-Pollen Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100983,7 +100983,7 @@
   },
   "spore-pollen cuticle": {
     "term": "Spore-Pollen Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -100997,7 +100997,7 @@
   },
   "spore-pollen assemblage": {
     "term": "Spore-Pollen Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101011,7 +101011,7 @@
   },
   "spore-pollen recovery": {
     "term": "Spore-Pollen Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101025,7 +101025,7 @@
   },
   "spore-pollen residue": {
     "term": "Spore-Pollen Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101039,7 +101039,7 @@
   },
   "spore-pollen slide": {
     "term": "Spore-Pollen Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101053,7 +101053,7 @@
   },
   "spore-pollen preparate": {
     "term": "Spore-Pollen Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type spore-pollen preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101067,7 +101067,7 @@
   },
   "microscopic spore": {
     "term": "Microscopic Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101081,7 +101081,7 @@
   },
   "microscopic pollen grain": {
     "term": "Microscopic Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101095,7 +101095,7 @@
   },
   "microscopic dinoflagellate": {
     "term": "Microscopic Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101109,7 +101109,7 @@
   },
   "microscopic acritarch": {
     "term": "Microscopic Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101123,7 +101123,7 @@
   },
   "microscopic palynomorph": {
     "term": "Microscopic Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101137,7 +101137,7 @@
   },
   "microscopic chitinozoan": {
     "term": "Microscopic Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101151,7 +101151,7 @@
   },
   "microscopic tasmanitid": {
     "term": "Microscopic Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101165,7 +101165,7 @@
   },
   "microscopic microfossil": {
     "term": "Microscopic Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101179,7 +101179,7 @@
   },
   "microscopic cyst": {
     "term": "Microscopic Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101193,7 +101193,7 @@
   },
   "microscopic cuticle": {
     "term": "Microscopic Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101207,7 +101207,7 @@
   },
   "microscopic assemblage": {
     "term": "Microscopic Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101221,7 +101221,7 @@
   },
   "microscopic recovery": {
     "term": "Microscopic Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101235,7 +101235,7 @@
   },
   "microscopic residue": {
     "term": "Microscopic Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101249,7 +101249,7 @@
   },
   "microscopic slide": {
     "term": "Microscopic Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101263,7 +101263,7 @@
   },
   "microscopic preparate": {
     "term": "Microscopic Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type microscopic preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101277,7 +101277,7 @@
   },
   "stratigraphically-significant spore": {
     "term": "Stratigraphically-Significant Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101291,7 +101291,7 @@
   },
   "stratigraphically-significant pollen grain": {
     "term": "Stratigraphically-Significant Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101305,7 +101305,7 @@
   },
   "stratigraphically-significant dinoflagellate": {
     "term": "Stratigraphically-Significant Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101319,7 +101319,7 @@
   },
   "stratigraphically-significant acritarch": {
     "term": "Stratigraphically-Significant Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101333,7 +101333,7 @@
   },
   "stratigraphically-significant palynomorph": {
     "term": "Stratigraphically-Significant Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101347,7 +101347,7 @@
   },
   "stratigraphically-significant chitinozoan": {
     "term": "Stratigraphically-Significant Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101361,7 +101361,7 @@
   },
   "stratigraphically-significant tasmanitid": {
     "term": "Stratigraphically-Significant Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101375,7 +101375,7 @@
   },
   "stratigraphically-significant microfossil": {
     "term": "Stratigraphically-Significant Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101389,7 +101389,7 @@
   },
   "stratigraphically-significant cyst": {
     "term": "Stratigraphically-Significant Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101403,7 +101403,7 @@
   },
   "stratigraphically-significant cuticle": {
     "term": "Stratigraphically-Significant Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101417,7 +101417,7 @@
   },
   "stratigraphically-significant assemblage": {
     "term": "Stratigraphically-Significant Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101431,7 +101431,7 @@
   },
   "stratigraphically-significant recovery": {
     "term": "Stratigraphically-Significant Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101445,7 +101445,7 @@
   },
   "stratigraphically-significant residue": {
     "term": "Stratigraphically-Significant Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101459,7 +101459,7 @@
   },
   "stratigraphically-significant slide": {
     "term": "Stratigraphically-Significant Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101473,7 +101473,7 @@
   },
   "stratigraphically-significant preparate": {
     "term": "Stratigraphically-Significant Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type stratigraphically-significant preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101487,7 +101487,7 @@
   },
   "biozone-marker spore": {
     "term": "Biozone-Marker Spore",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker spore used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101501,7 +101501,7 @@
   },
   "biozone-marker pollen grain": {
     "term": "Biozone-Marker Pollen Grain",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker pollen grain used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101515,7 +101515,7 @@
   },
   "biozone-marker dinoflagellate": {
     "term": "Biozone-Marker Dinoflagellate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker dinoflagellate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101529,7 +101529,7 @@
   },
   "biozone-marker acritarch": {
     "term": "Biozone-Marker Acritarch",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker acritarch used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101543,7 +101543,7 @@
   },
   "biozone-marker palynomorph": {
     "term": "Biozone-Marker Palynomorph",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker palynomorph used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101557,7 +101557,7 @@
   },
   "biozone-marker chitinozoan": {
     "term": "Biozone-Marker Chitinozoan",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker chitinozoan used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101571,7 +101571,7 @@
   },
   "biozone-marker tasmanitid": {
     "term": "Biozone-Marker Tasmanitid",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker tasmanitid used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101585,7 +101585,7 @@
   },
   "biozone-marker microfossil": {
     "term": "Biozone-Marker Microfossil",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker microfossil used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101599,7 +101599,7 @@
   },
   "biozone-marker cyst": {
     "term": "Biozone-Marker Cyst",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker cyst used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101613,7 +101613,7 @@
   },
   "biozone-marker cuticle": {
     "term": "Biozone-Marker Cuticle",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker cuticle used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101627,7 +101627,7 @@
   },
   "biozone-marker assemblage": {
     "term": "Biozone-Marker Assemblage",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker assemblage used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101641,7 +101641,7 @@
   },
   "biozone-marker recovery": {
     "term": "Biozone-Marker Recovery",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker recovery used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101655,7 +101655,7 @@
   },
   "biozone-marker residue": {
     "term": "Biozone-Marker Residue",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker residue used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101669,7 +101669,7 @@
   },
   "biozone-marker slide": {
     "term": "Biozone-Marker Slide",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker slide used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",
@@ -101683,7 +101683,7 @@
   },
   "biozone-marker preparate": {
     "term": "Biozone-Marker Preparate",
-    "category": "Palenology",
+    "category": "Palynology",
     "description": "A palynological microstructure of type biozone-marker preparate used for biostratigraphic dating and correlation of strata.",
     "attributes": [
       "Size",

@@ -154,7 +154,7 @@ def run_statistical_discovery(
                     "Geophysics": "Physical measurements, petrophysical logs, resistivity, and density metrics.",
                     "GeophysicsWells": "Well logging tools, measurement procedures, caliper logs, and wireline logs.",
                     "Sedimentology": "Sediment deposition, compaction processes, sedimentary rock facies, and shale/sandstone reservoirs.",
-                    "Palenology": "Palynological studies, spore and pollen markers, palynomorph microfossils, and biostratigraphy.",
+                    "Palynology": "Palynological studies, spore and pollen markers, palynomorph microfossils, and biostratigraphy.",
                     "Paleontology": "Preserved fossils, biozone intervals, paleoecology, and prehistoric species classification.",
                     "Production": "Hydrocarbon flow extraction operations, artificial lift, flow rates, and separators.",
                     "WellCompletion": "Downhole tubulars, production casing, perforations, packer configurations, and christmas tree assemblies.",
