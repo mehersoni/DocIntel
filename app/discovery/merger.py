@@ -5,11 +5,11 @@ from app.config import CANDIDATE_SCHEMA_PATH
 
 def merge_discovered_categories(
     statistical_cats: List[Dict[str, Any]],
-    llm_cats: List[Dict[str, Any]],
+    scan_cats: List[Dict[str, Any]],
     output_path: Path = CANDIDATE_SCHEMA_PATH
 ) -> List[Dict[str, Any]]:
     """
-    Merges category lists from Statistical and LLM discovery.
+    Merges category lists from Statistical and Direct Glossary Scanning discovery.
     Assigns confidence (HIGH if in both, MEDIUM if in one) and tracks sources.
     Saves the output as a YAML file at the specified output_path.
     """
@@ -27,8 +27,8 @@ def merge_discovered_categories(
             "match_count": cat.get("match_count", 0)
         }
         
-    # Process LLM Categories
-    for cat in llm_cats:
+    # Process Direct Scan Categories
+    for cat in scan_cats:
         name = cat["name"].strip()
         norm_name = name.lower()
         
@@ -39,14 +39,14 @@ def merge_discovered_categories(
             if "direct_scan" not in merged_item["sources"]:
                 merged_item["sources"].append("direct_scan")
             merged_item["match_count"] = merged_item.get("match_count", 0) + cat.get("match_count", 0)
-            # If LLM has a description, use it as it might be richer
+            # Use direct scan description if available
             if cat.get("description"):
                 merged_item["description"] = cat["description"]
         else:
-            # Only in LLM
+            # Only in Direct Scan
             merged_map[norm_name] = {
                 "name": name,
-                "description": cat.get("description", "Discovered directly via direct glossary scanning."),
+                "description": cat.get("description", "Discovered directly via offline domain glossary scanning."),
                 "sources": ["direct_scan"],
                 "confidence": "MEDIUM",
                 "match_count": cat.get("match_count", 0)

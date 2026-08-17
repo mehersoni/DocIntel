@@ -167,7 +167,7 @@ from app.config import (
 from app.ingestion.extractor import extract_text, extract_captions, extract_images
 from app.ingestion.chunker import chunk_text, save_chunks
 from app.discovery.statistical import run_statistical_discovery
-from app.discovery.glossary_scan import run_direct_glossary_scan as run_llm_discovery, extract_category_details
+from app.discovery.glossary_scan import run_direct_glossary_scan, extract_category_details
 from app.discovery.merger import merge_discovered_categories
 from app.schema.manager import load_yaml_schema, save_approved_schema
 
@@ -394,14 +394,14 @@ with tab_ingest:
                 
             with st.spinner("Step 3: Running Direct Glossary Scan (Offline)..."):
                 # Run direct glossary scan
-                llm_cats = run_llm_discovery(
+                scan_cats = run_direct_glossary_scan(
                     chunks=all_chunks,
                     api_key=api_key
                 )
-                st.success(f"Discovered {len(llm_cats)} categories via Direct Glossary Scan (Offline).")
+                st.success(f"Discovered {len(scan_cats)} categories via Direct Glossary Scan (Offline).")
                 
             with st.spinner("Step 4: Performing Hybrid Merge and generating candidate_schema.yaml..."):
-                merged = merge_discovered_categories(stat_cats, llm_cats, CANDIDATE_SCHEMA_PATH)
+                merged = merge_discovered_categories(stat_cats, scan_cats, CANDIDATE_SCHEMA_PATH)
                 
                 st.session_state.candidate_categories = merged
                 st.session_state.reviewed_categories = []
@@ -526,7 +526,7 @@ with tab_review:
                         if st.button(btn_lbl, key=f"extract_btn_{idx}"):
                             with st.spinner(f"Extracting details for '{cat['name']}'..."):
                                 try:
-                                    from app.discovery.llm import extract_category_details
+                                    from app.discovery.glossary_scan import extract_category_details
                                     from app.schema.manager import merge_details
                                     new_d = extract_category_details(
                                         category_name=cat["name"],

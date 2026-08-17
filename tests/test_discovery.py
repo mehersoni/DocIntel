@@ -9,13 +9,13 @@ def test_merge_discovered_categories(tmp_path):
         {"name": "Equipment", "description": "Rig equipment"},
         {"name": "Incident", "description": "Rig safety incident"}
     ]
-    llm_cats = [
+    scan_cats = [
         {"name": "Equipment", "description": "Detailed equipment description"},
         {"name": "Formation", "description": "Bakken geological formation"}
     ]
     
     output_file = tmp_path / "candidate_schema.yaml"
-    merged = merge_discovered_categories(statistical_cats, llm_cats, output_file)
+    merged = merge_discovered_categories(statistical_cats, scan_cats, output_file)
     
     # We expect 3 categories
     assert len(merged) == 3
@@ -32,7 +32,7 @@ def test_merge_discovered_categories(tmp_path):
     assert incident_item["confidence"] == "MEDIUM"
     assert incident_item["sources"] == ["statistical"]
     
-    # Check Formation (only in LLM => MEDIUM)
+    # Check Formation (only in Direct Scan => MEDIUM)
     formation_item = next(x for x in merged if x["name"] == "Formation")
     assert formation_item["confidence"] == "MEDIUM"
     assert formation_item["sources"] == ["direct_scan"]
